@@ -1,0 +1,215 @@
+
+.titulo-index{   /* TITULO PARA INDEX NADA MÁS */
+     color:black;
+     text-align: center;
+     font-family: 'Century Gothic';
+     border: 3px solid rgb(0, 0, 0);
+     padding: 20px;
+}
+
+
+.nav{/*TITULO NAVEGACIÓN LINKS*/
+    color:black;
+    font-family: 'Century Gothic' ;
+    font-size: 20px;
+    
+}
+
+/* font-weight: bold;*/
+
+.links{ /*TÍTULO LINKS Y EL DE ABAJO ES PARA CAMBIO DE COLOR */
+color:blue;
+text-decoration: none;
+}
+
+.links:hover{
+color:rgb(252, 116, 230);
+}
+
+/* TODO ESTO ES SOLO PARA INDEX.HTML OJO*/
+
+.cuerpo-index{
+    background-image: url('portada-index.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.perfil img {
+    display: block;
+    margin: 0 auto;
+    width: 130px;
+    height: auto;
+}
+
+
+
+.me{
+    text-align: center;
+    font-family: 'Arial Narrow';
+    font-size: 30px;
+}
+
+.me2{
+    text-align: center;
+    font-family: 'Century Gothic' ;
+    font-size: 19px;
+}
+
+.conocimientos{
+    text-align: center;
+    font-family: 'Arial Narrow';
+    font-size: 30px;
+}
+
+.conocimientos2{
+    font-family: 'Century Gothic' ;
+    font-size: 19px;
+}
+
+.fortalezas{
+    text-align: center;
+    font-family: 'Arial Narrow';
+    font-size: 30px;
+}
+
+.fortalezas2{
+    font-family: 'Century Gothic' ;
+    font-size: 19px;
+}
+
+.proyectos{
+    text-align: center;
+    font-family: 'Arial Narrow';
+    font-size: 30px;
+}
+
+.tabla{
+    box-shadow: 0 0 10px rgb(242, 92, 197);
+    font-size: 19px;
+}
+
+
+.contenido-tabla{
+    font-family: "Century Gothic";
+    font-size: 17px;
+}
+
+.persona{
+    text-align: center;
+    font-family: 'Arial Narrow';
+    font-size: 30px;
+}
+
+.persona-imagen{
+    border-radius: 50%;
+}
+
+.imagen-contenedor{
+    text-align: center;
+}
+
+.descripcion-persona{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 19px;
+}
+
+.contacto{
+    background-color: rgb(251, 174, 197);
+    color: black;
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 28px;
+}
+
+.link-wiki{
+    color: blue;
+    text-align: left;
+    text-decoration: none;
+    font-family: 'Century Gothic' 'Bold';
+    font-size: 18px;
+    }
+    
+    .link-wiki:hover{
+    color:rgb(252, 116, 230);
+    }
+
+    .instagram{
+                position: relative;
+                width: 50px;
+                height: auto;
+        
+    }
+
+    .footer{
+        text-decoration: dotted;
+        font-family: 'Century Gothic';
+    }
+
+.instagram2{
+    width: 50px;
+    height: auto;
+    object-fit: cover;
+}
+
+.facebook{
+    position: relative;
+    width: 50px;
+    height: auto;
+
+}
+
+.facebook2{
+    width: 50px;
+    height: auto;
+    object-fit: cover;
+}
+
+
+
+/* AQUÍ EMPIEZA EL FORMULARIO FORMULARIO*/
+
+.cuerpo-formulario{
+    background-image: url('portada-index.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo-formulario{ /*TITULO PARA FORMULARIO*/
+    color: black;
+    font-family: 'Century Gothic';
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid rgb(219, 137, 204);
+    padding: 20px;
+}
+
+.enviar{
+    font-family: 'Century Gothic';
+    text-align: center;
+    font-size: 26px;
+}
+
+input[type="submit"] {
+    padding: 10px 20px; 
+    font-size: 18px; 
+}
+
+.estilo-formulario{
+    font-family: 'Century Gothic';
+    text-align: center;
+}
+
+.inicio-formulario{
+    font-family: 'Century Gothic';
+    text-align: center;
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+
